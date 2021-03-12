@@ -1,0 +1,12 @@
+C:\Users\vinicius.watanabe\source\repos\Testes\obj\Debug\netcoreapp3.1\TestesConsole.AssemblyInfoInputs.cache
+C:\Users\vinicius.watanabe\source\repos\Testes\obj\Debug\netcoreapp3.1\TestesConsole.AssemblyInfo.cs
+C:\Users\vinicius.watanabe\source\repos\Testes\obj\Debug\netcoreapp3.1\TestesConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.watanabe\source\repos\Testes\bin\Debug\netcoreapp3.1\TestesConsole.exe
+C:\Users\vinicius.watanabe\source\repos\Testes\bin\Debug\netcoreapp3.1\TestesConsole.deps.json
+C:\Users\vinicius.watanabe\source\repos\Testes\bin\Debug\netcoreapp3.1\TestesConsole.runtimeconfig.json
+C:\Users\vinicius.watanabe\source\repos\Testes\bin\Debug\netcoreapp3.1\TestesConsole.runtimeconfig.dev.json
+C:\Users\vinicius.watanabe\source\repos\Testes\bin\Debug\netcoreapp3.1\TestesConsole.dll
+C:\Users\vinicius.watanabe\source\repos\Testes\bin\Debug\netcoreapp3.1\TestesConsole.pdb
+C:\Users\vinicius.watanabe\source\repos\Testes\obj\Debug\netcoreapp3.1\TestesConsole.dll
+C:\Users\vinicius.watanabe\source\repos\Testes\obj\Debug\netcoreapp3.1\TestesConsole.pdb
+C:\Users\vinicius.watanabe\source\repos\Testes\obj\Debug\netcoreapp3.1\TestesConsole.genruntimeconfig.cache
