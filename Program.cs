@@ -17,6 +17,7 @@ namespace TestesConsole
             var soma = shoppingCart.Products.Sum(p => p.Price);
 
             var somaDesconto = ProductBusiness.CalculateTotal(shoppingCart.Products);
+            var somaDescontoDelegado = ProductBusiness.CalculateTotal(shoppingCart.Products);
         }
     }
 }
